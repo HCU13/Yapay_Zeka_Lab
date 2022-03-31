@@ -1,0 +1,27 @@
+1) Kullanıcıdan 3 adet integer türünde değer alınız. Almış olduğunuz bu değerler bir üçgenin açılarını ifade edecektir. Bu açı değerlerine göre bu üçgenin dik, 
+geniş ya da dar üçgen olup olmadığını belirleyen programı yazınız (20p).
+
+
+2) İçinde uzaylı olan bir oyun geliştirdiğinizi düşünün. uzaylı_rengi isminde bir değişken oluşturun ve bu değişken string türünde değerler alsın. Bu değişkene kırmızı,
+yeşil ya da sarı değerlerinden birini klavyeden veriniz. Eğer uzaylının rengi yeşilse “Tebrikler, yeşil uzaylıya ateş ettiğiniz için 5 puan kazandınız” şeklinde bir çıktı veriniz.
+Eğer rengi yeşil değilse "Tebrikler, yeşil olmayan uzaylıya ateş ettiğiniz için 10 puan kazandınız" şeklinde çıktı veriniz. Senaryoya ait programı yazınız (20p).
+
+
+3) Bir önceki sorudaki örneğe dayanarak if-elif-else yapılarını kullanarak aşağıdaki soruları cevaplayınız (20p).
+a) Eğer uzaylı rengi yeşil ise "Tebrikler, yeşil uzaylıya ateş ettiğiniz için 5 puan kazandınız",
+b) Eğer uzaylı rengi sarı ise "Tebrikler, sarı uzaylıya ateş ettiğiniz için 10 puan kazandınız",
+c) Eğer uzaylı rengi kırmız ise "Tebrikler, kırmızı uzaylıya ateş ettiğiniz için 15 puan kazandınız" şeklinde çıktı veren programı yazınız.
+
+
+4) if-elif-else yapılarını kullanarak bir insanın yaşam evreleri ile ilgili programı oluşturunuz. int türünde, yaş isminde bir değişken oluşturup, bu değişken için gerekli olan 
+değeri kullanıcıdan isteyiniz (20p).
+a) Eğer bir insanın yaşı 2 yaşından küçük ise, "Bu kişi bebektir",
+b) Eğer bir insanın yaşı 2 ile 4 arasındaysa (2 dâhil) "Bu kişi yeni yürümeye başlayan çocuktur",
+c) Eğer bir insanın yaşı 4 ile 13 arasındaysa (4 dâhil) "Bu kişi çocuktur",
+d) Eğer bir insanın yaşı 13 ile 20 arasındaysa (13 dâhil) "Bu kişi ergendir",
+e) Eğer bir insanın yaşı 20 ile 65 arasındaysa (20 dâhil) "Bu kişi yetişkindir",
+f) Eğer bir insanın yaşı 65 ve üstü ise (65 dâhil) "Bu kişi yaşlıdır" şeklinde çıktı veriniz.
+
+
+5) Favori meyvelerinizin olduğu bir liste oluşturunuz ve bu listede 5 adet meyveniz bulunsun. Listenin adı favori_meyveler şeklinde tanımlansın. if-else yapısını kullanarak
+örnekte verilen meyvelerin favori listenizde olup olmadığını kontrol ediniz. Örnek meyveler; elma, armut, karpuz, kavun, muz, portakal, çilek, vişne, kiraz ve mandalina (20p).
